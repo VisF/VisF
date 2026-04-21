@@ -1,7 +1,7 @@
 # 👋 Hola, soy Facundo
 
-💻 **Frontend Developer** enfocado en crear interfaces modernas, claras y responsivas.  
-Me interesa construir aplicaciones web bien estructuradas, reutilizables y centradas en el usuario.
+💻 **Desarrollador Web Full Stack** con foco en frontend, creando interfaces modernas, claras y responsivas.  
+Me interesa construir aplicaciones escalables, bien estructuradas y centradas en la experiencia del usuario, sin descuidar la lógica de negocio del backend.
 
 ---
 
@@ -12,42 +12,59 @@ Me interesa construir aplicaciones web bien estructuradas, reutilizables y centr
 - CSS3
 - JavaScript (ES6+)
 
-### ⚛ Frameworks & Librerías
-- React
+### ⚛ Frontend
+- React (Hooks, arquitectura por componentes)
 - Angular
-
-### 🎨 Estilos & UI
 - TailwindCSS
-- Diseño responsive
-- Mobile-first
+- Diseño responsive (Mobile-first)
 
-### 🧠 Conceptos
-- Componentización
-- UX/UI básico  
+### 🔧 Backend
+- Java (Spring Boot, JPA, APIs REST)
+- PHP
+- Arquitectura monolítica y microservicios
+
+### 🗄 Base de datos
+- MySQL
+- Apache Derby
+- Manejo de relaciones (JPA / Hibernate)
+
+---
+
+## 🧠 Conceptos y buenas prácticas
+
+- Componentización y reutilización
+- Arquitectura MVC adaptada a frontend
+- Consumo y diseño de APIs REST
+- Manejo de estado (básico a intermedio)
+- Clean Code y código mantenible
+- UX/UI aplicado al desarrollo  
   (jerarquía visual, usabilidad, experiencia de usuario)
-- Consumo de APIs REST
-- Manejo de estado básico
+- Integración entre frontend y backend
 
 ---
 
 ## 🛠 Qué podés encontrar en mis repositorios
 
-- Proyectos frontend con **React y Angular**
-- Interfaces responsivas
+- Aplicaciones Full Stack (React + Java / PHP)
+- Proyectos frontend escalables
+- Interfaces modernas y responsivas
 - Componentes reutilizables
-- Integración con APIs REST
-- Prácticas enfocadas en código claro y mantenible
+- Integraciones con APIs REST
+- Ejemplos de arquitectura y buenas prácticas
 
 ---
 
 ## 📌 Actualmente enfocado en
-- Mejorar arquitectura de componentes
-- Buenas prácticas de frontend
-- UX/UI aplicada al desarrollo
-- Proyectos reales y escalables
+
+- Escalabilidad en frontend (React)
+- Arquitecturas limpias
+- Mejores prácticas en backend con Java (Spring Boot)
+- Diseño de sistemas y microservicios
+- Proyectos reales con enfoque profesional
 
 ---
 
 ## 📫 Contacto
-- GitHub: [https://github.com/VisF](https://github.com/VisF)
-- Linkedin: https://www.linkedin.com/in/facundo-vis/
+
+- GitHub: https://github.com/VisF
+- LinkedIn: https://www.linkedin.com/in/facundo-vis/
