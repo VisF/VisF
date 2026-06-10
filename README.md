@@ -1,70 +1,87 @@
 # 👋 Hola, soy Facundo
 
-💻 **Desarrollador Web Full Stack** con foco en frontend, creando interfaces modernas, claras y responsivas.  
-Me interesa construir aplicaciones escalables, bien estructuradas y centradas en la experiencia del usuario, sin descuidar la lógica de negocio del backend.
+💻 Full Stack Developer especializado en Java y Spring Boot.
 
----
+Me apasiona desarrollar aplicaciones escalables, mantenibles y bien estructuradas, aplicando buenas prácticas de programación, arquitectura de software y diseño de bases de datos. Disfruto tanto del desarrollo backend como de la construcción de interfaces web modernas que se integren de forma eficiente con la lógica de negocio.
 
-## 🚀 Tecnologías con las que trabajo
+Actualmente me encuentro profundizando conocimientos en arquitectura de software, microservicios, APIs REST y desarrollo de aplicaciones empresariales.
 
-### 🧱 Base
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+## 🚀 Tecnologías
 
-### ⚛ Frontend
-- React (Hooks, arquitectura por componentes)
-- Angular
-- TailwindCSS
-- Diseño responsive (Mobile-first)
+### ☕ Backend
 
-### 🔧 Backend
-- Java (Spring Boot, JPA, APIs REST)
-- PHP
-- Arquitectura monolítica y microservicios
+* Java
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* JDBC
+* PHP
+* APIs REST
+* Maven
 
-### 🗄 Base de datos
-- MySQL
-- Apache Derby
-- Manejo de relaciones (JPA / Hibernate)
+### 🎨 Frontend
 
----
+* Angular
+* React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* TailwindCSS
+* Diseño Responsive
 
-## 🧠 Conceptos y buenas prácticas
+### 🗄 Bases de Datos
 
-- Componentización y reutilización
-- Arquitectura MVC adaptada a frontend
-- Consumo y diseño de APIs REST
-- Manejo de estado (básico a intermedio)
-- Clean Code y código mantenible
-- UX/UI aplicado al desarrollo  
-  (jerarquía visual, usabilidad, experiencia de usuario)
-- Integración entre frontend y backend
+* MySQL
+* Apache Derby
+* SQL
+* Diseño y modelado relacional
+* JPA / Hibernate
 
----
+### 🛠 Herramientas
 
-## 🛠 Qué podés encontrar en mis repositorios
+* Git
+* GitHub
+* Docker
+* Swagger / OpenAPI
+* Postman
 
-- Aplicaciones Full Stack (React + Java / PHP)
-- Proyectos frontend escalables
-- Interfaces modernas y responsivas
-- Componentes reutilizables
-- Integraciones con APIs REST
-- Ejemplos de arquitectura y buenas prácticas
+## 🧠 Conocimientos
 
----
+* Programación Orientada a Objetos
+* Arquitectura MVC
+* Arquitectura en Capas
+* Desarrollo de Microservicios
+* Diseño e Implementación de APIs REST
+* Persistencia de Datos con JPA/Hibernate
+* Principios SOLID
+* Clean Code
+* Patrones de Diseño
+* Integración Frontend–Backend
+* Control de Versiones con Git
+
+## 📂 Qué podés encontrar en mis repositorios
+
+* Aplicaciones Full Stack
+* APIs REST desarrolladas con Spring Boot
+* Proyectos utilizando JPA e Hibernate
+* Implementaciones con arquitectura MVC
+* Integración con bases de datos relacionales
+* Aplicaciones web con Angular y React
+* Ejercicios académicos y proyectos personales
+* Soluciones aplicando buenas prácticas de desarrollo
 
 ## 📌 Actualmente enfocado en
 
-- Escalabilidad en frontend (React)
-- Arquitecturas limpias
-- Mejores prácticas en backend con Java (Spring Boot)
-- Diseño de sistemas y microservicios
-- Proyectos reales con enfoque profesional
-
----
+* Desarrollo Backend con Java y Spring Boot
+* Arquitectura de Software
+* Microservicios
+* Diseño de APIs REST
+* Bases de Datos y Persistencia
+* Docker y despliegue de aplicaciones
+* Proyectos Full Stack con enfoque profesional
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/VisF
-- LinkedIn: https://www.linkedin.com/in/facundo-vis/
+GitHub: https://github.com/VisF
+
+LinkedIn: https://www.linkedin.com/in/facundo-vis/
