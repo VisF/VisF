@@ -1,14 +1,14 @@
-# 👋 Hola, soy Facundo
+# Hola, soy Facundo
 
-💻 Full Stack Developer especializado en Java y Spring Boot.
+Full Stack Developer especializado en Java y Spring Boot.
 
 Me apasiona desarrollar aplicaciones escalables, mantenibles y bien estructuradas, aplicando buenas prácticas de programación, arquitectura de software y diseño de bases de datos. Disfruto tanto del desarrollo backend como de la construcción de interfaces web modernas que se integren de forma eficiente con la lógica de negocio.
 
 Actualmente me encuentro profundizando conocimientos en arquitectura de software, microservicios, APIs REST y desarrollo de aplicaciones empresariales.
 
-## 🚀 Tecnologías
+##  Tecnologías
 
-### ☕ Backend
+###  Backend
 
 * Java
 * Spring Boot
@@ -19,7 +19,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * APIs REST
 * Maven
 
-### 🎨 Frontend
+###  Frontend
 
 * Angular
 * React
@@ -29,7 +29,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * TailwindCSS
 * Diseño Responsive
 
-### 🗄 Bases de Datos
+### Bases de Datos
 
 * MySQL
 * Apache Derby
@@ -37,7 +37,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * Diseño y modelado relacional
 * JPA / Hibernate
 
-### 🛠 Herramientas
+### Herramientas
 
 * Git
 * GitHub
@@ -45,7 +45,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * Swagger / OpenAPI
 * Postman
 
-## 🧠 Conocimientos
+## Conocimientos
 
 * Programación Orientada a Objetos
 * Arquitectura MVC
@@ -59,7 +59,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * Integración Frontend–Backend
 * Control de Versiones con Git
 
-## 📂 Qué podés encontrar en mis repositorios
+## Qué podés encontrar en mis repositorios
 
 * Aplicaciones Full Stack
 * APIs REST desarrolladas con Spring Boot
@@ -70,7 +70,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * Ejercicios académicos y proyectos personales
 * Soluciones aplicando buenas prácticas de desarrollo
 
-## 📌 Actualmente enfocado en
+## Actualmente enfocado en
 
 * Desarrollo Backend con Java y Spring Boot
 * Arquitectura de Software
@@ -80,7 +80,7 @@ Actualmente me encuentro profundizando conocimientos en arquitectura de software
 * Docker y despliegue de aplicaciones
 * Proyectos Full Stack con enfoque profesional
 
-## 📫 Contacto
+## Contacto
 
 GitHub: https://github.com/VisF
 
